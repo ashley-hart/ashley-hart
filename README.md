@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working to get started as a graduate student.
 - 🌱 I’m currently learning about artificial intelligence and game engines.
-<!-- - 👯 I’m looking to collaborate on ...  -->
 - 🤔 I’m looking for help with getting started on my graduate journey.
 - 💬 Ask me about my previous and current research/projects!
 - 📫 You can reach me via email at ashley.hart@ufl.edu.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: *Mario Galaxy*, *Minecraft*, and *Splatoon* were the three titles that led me to want to start programming. 
+<!-- - 👯 I’m looking to collaborate on ...  -->
 
 
 <!-- ### Background -->
