@@ -1,9 +1,9 @@
-### Welcome
+### Welcome!
 
-My name is Ashley! I am a first-year Computer Science Ph.D. Student at the Univeristy of Florida. My interests pertain to ethical artificial intelligence and how we can use AI to create healthy online spaces for young adults, adolecents and children. Feel free to check out the details I have below, and the repositories I have availible on GitHub. If you would like to connect feel free to email me at [ashley.hart@ufl.edu](mailto:ashley.hart@ufl.edu) or message me on LinkedIn.
+My name is Ashley and I am a first-year Computer Science Ph.D. Student at the Univeristy of Florida. My interests pertain to ethical artificial intelligence and how we can use AI to create healthy online spaces for young adults, adolecents and children. Feel free to check out the details I have below, and the repositories I have availible on GitHub. If you would like to connect feel free to email me at [ashley.hart@ufl.edu](mailto:ashley.hart@ufl.edu) or message me on LinkedIn.
 
-E-mail: ashley.hart@ufl.edu
-Website: [ashleybhart.com](https://ashleybhart.com/)
+- E-mail: ashley.hart@ufl.edu
+- Website: [ashleybhart.com](https://ashleybhart.com/)
 
 ### Other Projects 
 I have worked on some projects that did not make it onto a GitHub repository. They can be found below.
