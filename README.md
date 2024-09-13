@@ -2,16 +2,16 @@
 
 ## 🎓 About Me
 
-- 👨‍💻 Second-year Ph.D. student in AI/ML at the University of Florida 
+- 🐊 Third-year Computer Science Ph.D. student at the University of Florida
 - 🥼 Member of the Computing for Social Good Lab, advised by Dr. Juan Gilbert
-- 🌱 Researching AI applications for social good, sustainability, and child literacy
-- 📚 Interested in AI literacy and making AI accessible to the general public
+- 🎮 Researching game development, game-based learning and computer science education
+- 📚 Interested in supporting digital and AI literacy efforts for everyone
 
-## 🔬 Research Focus
+## 🔬 Research Areas
 
-- 📖 AI Applications to Support Child Literacy
-- 🧠 AI Literacy for the General Public
-- 🌍 AI Applications for Sustainability Initiatives
+- 💻 Game-based Learning Interventions for CS Education
+- 📖 Game Development Methods and Video Game AI
+- 🌍 Bridging the Digital Divide in a Rapidly Accelerating World
 
 <!-- ## 🚀 Current Projects
 
@@ -42,12 +42,12 @@
 
 ## 🤝🏾 Let's Collaborate!
 
-- 💬 Open to collaborations and discussions on AI/ML research
+- 💬 Open to collaborations and discussions about my research and related areas
 - 📢 Feel free to reach out for project ideas, mentorship, or just a friendly chat!
 
-<!-- ## 📊 GitHub Stats -->
+## 📊 GitHub Stats
 
-<!-- (Add an exclamation point here!) [Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashley-hart&show_icons=true&count_private=true) -->
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashley-hart&show_icons=true&count_private=true) -->
 
 ## 🖥️ Other Projects 
 I have worked on some projects that did not make it onto a GitHub repository. They can be found below.
