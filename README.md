@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-- 🐊 Third-year Computer Science Ph.D. student at the University of Florida
+- 🐊 Fourth-year Computer Science Ph.D. student at the University of Florida
 - 🥼 Member of the Computing for Social Good Lab, advised by Dr. Juan Gilbert
 - 🎮 Researching game development, game-based learning and computer science education
 - 📚 Interested in supporting digital and AI literacy efforts for everyone
