@@ -3,9 +3,9 @@
 ## 🎓 About Me
 
 - 🐊 Fourth-year Computer Science Ph.D. student at the University of Florida
-- 🥼 Member of the Computing for Social Good Lab, advised by Dr. Juan Gilbert
-- 🎮 Researching game development, game-based learning and computer science education
-- 📚 Interested in supporting digital and AI literacy efforts for everyone
+<!-- - 🥼 Member of the INDIE Lab, co-advised by Dr. Eric Ragan and Dr. Julian Togelius -->
+- 🎮 Researching procedural content generation, artificial intelligence, game development, and computer science education
+- 📚 Committed to supporting digital and AI literacy efforts for everyone
 
 ## 🔬 Research Areas
 
