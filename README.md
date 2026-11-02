@@ -3,8 +3,8 @@
 ## 🎓 About Me
 
 - 🐊 Fourth-year Computer Science Ph.D. student at the University of Florida
-<!-- - 🥼 Member of the INDIE Lab, co-advised by Dr. Eric Ragan and Dr. Julian Togelius -->
-- 🎮 Researching procedural content generation, artificial intelligence, game development, and computer science education
+- 🥼 Member of the INDIE Lab, advised by Dr. Eric Ragan
+- 🎮 Games Innovation Lab @ NYU Collaborator - Researching procedural content generation, artificial intelligence, game development, and computer science education
 - 📚 Committed to supporting digital and AI literacy efforts for everyone
 
 ## 🔬 Research Areas
